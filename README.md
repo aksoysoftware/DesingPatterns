@@ -17,7 +17,7 @@ Yazılım tasarım desenleri kullanmak, bir projenin karmaşıklığını yönet
 - **Tekrar Kullanılabilirlik:** Desenler, benzer problemlerle karşılaşıldığında tekrar kullanılabilen modüler çözümler sağlar.
 
 
-## 2. CREATIONAL DESENLERİ 🛠️
+## 2. CREATIONAL DESENLER 🛠️
 
 ### 2.1 SINGLETON - TEK VARLIK
 
@@ -50,7 +50,7 @@ Builder deseni, karmaşık nesneleri adım adım oluşturmayı sağlar. Bu sayed
 
 Karmaşık nesneleri adım adım oluşturmanız gerektiğinde builder tasarım desenini kullanırız.
 
-## 3. STRUCTURAL DESENLERİ 🏗️
+## 3. STRUCTURAL DESENLER 🏗️
 
 ### 3.1 ADAPTER - ADAPTÖR
 
