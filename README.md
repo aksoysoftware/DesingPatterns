@@ -37,7 +37,8 @@ Factory deseni, nesne oluşturma sürecini soyutlar ve istemcilerin hangi nesnen
 ### 2.3 ABSTRACT FACTORY - SOYUT FABRİKA
 
 Abstract Factory deseni, ilgili nesne ailelerini oluşturan soyut bir arayüz sağlar. Bir nesne ailesini değiştirmek istediğinizde kullanışlıdır.
-![2560px-Abstract_Factory_UML_class_diagram svg](https://github.com/aksoysoftware/DesingPatterns/assets/99371051/88dd2370-91c3-409f-958d-dc364eff6b3c)
+
+![image](https://github.com/aksoysoftware/DesingPatterns/assets/99371051/fbaa35c3-7a4e-490f-806c-741e8b7069ad)
 
 
 Bir nesne ailesini değiştirmeniz ve bununla uyumlu nesneleri oluşturmanız gerektiğinde AbstractFactory kullanırız.
