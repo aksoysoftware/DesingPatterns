@@ -46,7 +46,7 @@ Bir nesne ailesini değiştirmeniz ve bununla uyumlu nesneleri oluşturmanız ge
 ### 2.4 BUILDER - YAPI TAŞÇISI
 
 Builder deseni, karmaşık nesneleri adım adım oluşturmayı sağlar. Bu sayede farklı temsilciler oluşturabilir ve yapıyı daha iyi kontrol edebilirsiniz.
-![Builder_UML_class_diagram svg](https://github.com/aksoysoftware/DesingPatterns/assets/99371051/c8a6e5a5-37d0-4c4d-af04-f33ca5a71ef2)
+![image](https://github.com/aksoysoftware/DesingPatterns/assets/99371051/f635c449-7b08-4d46-a42f-60c9753bf0f2)
 
 Karmaşık nesneleri adım adım oluşturmanız gerektiğinde builder tasarım desenini kullanırız.
 
