@@ -1,6 +1,6 @@
 # DesingPatterns(Tasarım Desenleri)
 
-# 1. YAZILIM TASARIM DESENLİ KILAVUZU 🎨
+# 1. YAZILIM TASARIM DESENLERİ
 
 ## 1.1 GİRİŞ 🚀
 
@@ -22,7 +22,8 @@ Yazılım tasarım desenleri kullanmak, bir projenin karmaşıklığını yönet
 ### 2.1 SINGLETON - TEK VARLIK
 
 Singleton deseni, programınızda yalnızca bir örnek oluşturulmasını sağlar. Bu örnek, bir kaynağa tek bir noktadan erişim sağlar.
-https://upload.wikimedia.org/wikipedia/commons/d/dc/Singleton_pattern_uml.png
+[Singleton_pattern_uml](https://github.com/aksoysoftware/DesingPatterns/assets/99371051/2a5627d4-ec28-4a59-91fc-128a094cb813)
+
 Uygulamanın yaşam süresince bir nesnenin bir kez oluşturulmasını sağlar.
 
 ### 2.2 FACTORY - FABRİKA
