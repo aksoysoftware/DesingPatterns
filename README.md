@@ -30,7 +30,7 @@ Uygulamanın yaşam süresince bir nesnenin bir kez oluşturulmasını sağlar.
 ### 2.2 FACTORY - FABRİKA
 
 Factory deseni, nesne oluşturma sürecini soyutlar ve istemcilerin hangi nesnenin oluşturulacağına karar vermesini kolaylaştırır.
-![N3mC1](https://github.com/aksoysoftware/DesingPatterns/assets/99371051/f2066b19-7f43-4dac-a77c-57efb22400bc)
+![image](https://github.com/aksoysoftware/DesingPatterns/assets/99371051/82f5890b-80cc-4347-9951-10eabb5e7d85)
 
 İstemcilerin spesifik sınıfların oluşturulmasını bilmesine gerek olmadığı durumlarda kullanılır.
 
