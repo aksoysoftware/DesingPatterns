@@ -22,7 +22,7 @@ Yazılım tasarım desenleri kullanmak, bir projenin karmaşıklığını yönet
 ### 2.1 SINGLETON - TEK VARLIK
 
 Singleton deseni, programınızda yalnızca bir örnek oluşturulmasını sağlar. Bu örnek, bir kaynağa tek bir noktadan erişim sağlar.
-![Singleton_pattern_uml](https://github.com/aksoysoftware/DesingPatterns/assets/99371051/c189bc87-2014-4a92-8508-b77515f3703d)
+![image](https://github.com/aksoysoftware/DesingPatterns/assets/99371051/58ee1073-e8aa-4edf-bc4f-5998a8508088)
 
 
 Uygulamanın yaşam süresince bir nesnenin bir kez oluşturulmasını sağlar.
