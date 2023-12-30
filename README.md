@@ -17,7 +17,7 @@ Yazılım tasarım desenleri kullanmak, bir projenin karmaşıklığını yönet
 - **Tekrar Kullanılabilirlik:** Desenler, benzer problemlerle karşılaşıldığında tekrar kullanılabilen modüler çözümler sağlar.
 
 
-## 2. CREATIONAL DESENLİR 🛠️
+## 2. CREATIONAL DESENLERİ 🛠️
 
 ### 2.1 SINGLETON - TEK VARLIK
 
@@ -50,13 +50,13 @@ Builder deseni, karmaşık nesneleri adım adım oluşturmayı sağlar. Bu sayed
 
 Karmaşık nesneleri adım adım oluşturmanız gerektiğinde builder tasarım desenini kullanırız.
 
-## 3. STRUCTURAL DESENLİR 🏗️
+## 3. STRUCTURAL DESENLERİ 🏗️
 
-### 3.1 ADAPTER - UYUM ADAPTÖRÜ
+### 3.1 ADAPTER - ADAPTÖR
 
 Adapter deseni, bir nesnenin arabirimini başka birine uyumlu hale getirir, bir tür çevirmen görevi görür.
 
-### 3.2 FACADE - CEPHANELİK
+### 3.2 FACADE - CEPHE
 
 Facade deseni, alt sistemlerin karmaşıklığını gizleyen ve istemciye sadece basitleştirilmiş bir arayüz sunan bir yapı sağlar.
 
