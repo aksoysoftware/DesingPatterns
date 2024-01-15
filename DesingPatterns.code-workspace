@@ -1,0 +1,17 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../OKRRecommender/DesingPatterns/DesingPatterns/src/Creational"
+		},
+		{
+			"path": "../OKRRecommender/DesingPatterns/DesingPatterns/src/Structural"
+		},
+		{
+			"path": "../OKRRecommender/DesingPatterns/DesingPatterns/src/Behavioral"
+		}
+	],
+	"settings": {}
+}
