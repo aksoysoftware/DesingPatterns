@@ -71,6 +71,31 @@ Facade deseni, alt sistemlerin karmaşıklığını gizleyen ve istemciye sadece
 Bridge deseni, soyutlamayı uygulamadan ayırarak, bağlamaları daha esnek ve değiştirilebilir hale getirir.
 ![image](https://github.com/aksoysoftware/DesingPatterns/assets/99371051/faad5ffc-a378-49d7-b46e-033a693f5a57)
 
+4. BEHAVIORAL DESENLER 🔄
+4.1 CHAIN OF RESPONSIBILITY - SORUMLULUK ZİNCİRİ
+Chain of Responsibility deseni, isteği işleyen nesneler arasında bir zincir oluşturur. İsteği işleyebilen nesne bulunana kadar zincir boyunca ilerler.
+
+
+Bir isteği işlemek için birden çok nesnenin sırayla denendiği durumlarda kullanılır.
+
+4.2 VISITOR - ZİYARETÇİ
+Visitor deseni, nesnelerin üzerinde belirli işlemleri gerçekleştiren ayrı bir nesne hiyerarşisi ekler.
+
+
+Bir nesnenin üzerinde farklı işlemleri gerçekleştirmeniz gerektiğinde kullanılır, böylece nesne hiyerarşisini değiştirmeden yeni işlemler ekleyebilirsiniz.
+
+4.3 STRATEGY - STRATEJİ
+Strategy deseni, bir algoritmanın farklı varyasyonlarını tanımlayan bir aile oluşturur ve bunları birbirine değiştirilebilir kılar.
+
+
+Belirli bir algoritmanın farklı uygulamalarını seçmeniz gerektiğinde kullanılır.
+
+4.4 OBSERVER - GÖZLEMCİ
+Observer deseni, bir nesnenin durumundaki değişiklikleri takip eden ve bu değişikliklere tepki veren bir dizi nesne tanımlar.
+
+
+Bir nesnenin durumundaki değişiklikleri diğer nesnelere bildirmeniz gerektiğinde kullanılır.
+
 
 
 
