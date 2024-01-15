@@ -69,7 +69,8 @@ Facade deseni, alt sistemlerin karmaşıklığını gizleyen ve istemciye sadece
 ### 3.3 BRIDGE - KÖPRÜ
 
 Bridge deseni, soyutlamayı uygulamadan ayırarak, bağlamaları daha esnek ve değiştirilebilir hale getirir.
-![image](https://github.com/aksoysoftware/DesingPatterns/assets/99371051/3e6563e4-34ad-4360-afe1-46eae96abab4)
+![image](https://github.com/aksoysoftware/DesingPatterns/assets/99371051/8d63df12-1474-45a2-a1b6-fe17cfb998c4)
+
 
 
 ### 3.4 COMPOSITE - BİLEŞİK
