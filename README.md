@@ -78,29 +78,29 @@ Bridge deseni, soyutlamayı uygulamadan ayırarak, bağlamaları daha esnek ve d
 Composite deseni, nesneleri hiyerarşik bir ağaç yapısında birleştirir, böylece tek bir nesne gibi davranabilirler.
 ![image](https://github.com/aksoysoftware/DesingPatterns/assets/99371051/a3b29722-547f-44c6-a313-eec33747fced)
 
-4. BEHAVIORAL DESENLER 🔄
-4.1 CHAIN OF RESPONSIBILITY - SORUMLULUK ZİNCİRİ
+## 4. BEHAVIORAL (DAVRANISSAL) DESENLER 🔄
+### 4.1 CHAIN OF RESPONSIBILITY - SORUMLULUK ZİNCİRİ
 Chain of Responsibility deseni, isteği işleyen nesneler arasında bir zincir oluşturur. İsteği işleyebilen nesne bulunana kadar zincir boyunca ilerler.
 
 ![image](https://github.com/aksoysoftware/DesingPatterns/assets/99371051/ccfadb16-c5e9-41b4-84cc-c9b2b0308bbc)
 
 Bir isteği işlemek için birden çok nesnenin sırayla denendiği durumlarda kullanılır.
 
-4.2 VISITOR - ZİYARETÇİ
+### 4.2 VISITOR - ZİYARETÇİ
 Visitor deseni, nesnelerin üzerinde belirli işlemleri gerçekleştiren ayrı bir nesne hiyerarşisi ekler.
 ![image](https://github.com/aksoysoftware/DesingPatterns/assets/99371051/2f9f7701-2fab-454a-b408-28bc2a898bff)
 
 
 Bir nesnenin üzerinde farklı işlemleri gerçekleştirmeniz gerektiğinde kullanılır, böylece nesne hiyerarşisini değiştirmeden yeni işlemler ekleyebilirsiniz.
 
-4.3 STRATEGY - STRATEJİ
+### 4.3 STRATEGY - STRATEJİ
 Strategy deseni, bir algoritmanın farklı varyasyonlarını tanımlayan bir aile oluşturur ve bunları birbirine değiştirilebilir kılar.
 ![image](https://github.com/aksoysoftware/DesingPatterns/assets/99371051/249b1e7e-8050-4def-b6d5-97d19b59d8a1)
 
 
 Belirli bir algoritmanın farklı uygulamalarını seçmeniz gerektiğinde kullanılır.
 
-4.4 OBSERVER - GÖZLEMCİ
+### 4.4 OBSERVER - GÖZLEMCİ
 Observer deseni, bir nesnenin durumundaki değişiklikleri takip eden ve bu değişikliklere tepki veren bir dizi nesne tanımlar.
 ![image](https://github.com/aksoysoftware/DesingPatterns/assets/99371051/3c7ad4be-4ffe-4bd1-81c3-81f6fafcd5ac)
 
