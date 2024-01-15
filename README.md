@@ -79,4 +79,5 @@ Bridge deseni, soyutlamayı uygulamadan ayırarak, bağlamaları daha esnek ve d
 ### 3.4 COMPOSITE - BİLEŞİK
 
 Composite deseni, nesneleri hiyerarşik bir ağaç yapısında birleştirir, böylece tek bir nesne gibi davranabilirler.
-![Uploading image.png…]()
+![image](https://github.com/aksoysoftware/DesingPatterns/assets/99371051/a3b29722-547f-44c6-a313-eec33747fced)
+
