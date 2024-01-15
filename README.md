@@ -70,6 +70,8 @@ Facade deseni, alt sistemlerin karmaşıklığını gizleyen ve istemciye sadece
 
 Bridge deseni, soyutlamayı uygulamadan ayırarak, bağlamaları daha esnek ve değiştirilebilir hale getirir.
 ![image](https://github.com/aksoysoftware/DesingPatterns/assets/99371051/577571e7-818a-41b3-bde7-80d4f4542c30)
+![image](https://github.com/aksoysoftware/DesingPatterns/assets/99371051/8832c9ed-58c7-4846-b2b7-dfbf158e9181)
+
 
 
 
