@@ -63,8 +63,7 @@ Adapter deseni, bir nesnenin arabirimini başka birine uyumlu hale getirir, bir 
 ### 3.2 FACADE - CEPHE
 
 Facade deseni, alt sistemlerin karmaşıklığını gizleyen ve istemciye sadece basitleştirilmiş bir arayüz sunan bir yapı sağlar.
-![image](https://github.com/aksoysoftware/DesingPatterns/assets/99371051/4b7e2b8b-026a-4a2a-93e6-20bfd4d4948a)
-
+![image](https://github.com/aksoysoftware/DesingPatterns/assets/99371051/c6190467-a4e3-4129-a01e-55622930f417)
 
 
 ### 3.3 BRIDGE - KÖPRÜ
