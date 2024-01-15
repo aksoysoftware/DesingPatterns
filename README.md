@@ -55,15 +55,24 @@ Karmaşık nesneleri adım adım oluşturmanız gerektiğinde builder tasarım d
 ### 3.1 ADAPTER - ADAPTÖR
 
 Adapter deseni, bir nesnenin arabirimini başka birine uyumlu hale getirir, bir tür çevirmen görevi görür.
+![image](https://github.com/aksoysoftware/DesingPatterns/assets/99371051/b823286d-c46e-4edb-b6b0-4494f18e6fe9)
+
 
 ### 3.2 FACADE - CEPHE
 
 Facade deseni, alt sistemlerin karmaşıklığını gizleyen ve istemciye sadece basitleştirilmiş bir arayüz sunan bir yapı sağlar.
+![image](https://github.com/aksoysoftware/DesingPatterns/assets/99371051/4b7e2b8b-026a-4a2a-93e6-20bfd4d4948a)
+
+
 
 ### 3.3 BRIDGE - KÖPRÜ
 
 Bridge deseni, soyutlamayı uygulamadan ayırarak, bağlamaları daha esnek ve değiştirilebilir hale getirir.
+![image](https://github.com/aksoysoftware/DesingPatterns/assets/99371051/3e6563e4-34ad-4360-afe1-46eae96abab4)
+
 
 ### 3.4 COMPOSITE - BİLEŞİK
 
 Composite deseni, nesneleri hiyerarşik bir ağaç yapısında birleştirir, böylece tek bir nesne gibi davranabilirler.
+![Uploading image.png…]()
+
