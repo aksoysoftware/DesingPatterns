@@ -56,6 +56,8 @@ Karmaşık nesneleri adım adım oluşturmanız gerektiğinde builder tasarım d
 
 Adapter deseni, bir nesnenin arabirimini başka birine uyumlu hale getirir, bir tür çevirmen görevi görür.
 ![image](https://github.com/aksoysoftware/DesingPatterns/assets/99371051/b823286d-c46e-4edb-b6b0-4494f18e6fe9)
+![image](https://github.com/aksoysoftware/DesingPatterns/assets/99371051/65c4ef02-3b5c-404c-92b8-9f10110998c1)
+
 
 
 ### 3.2 FACADE - CEPHE
