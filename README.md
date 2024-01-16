@@ -26,7 +26,7 @@ Singleton deseni, programınızda yalnızca bir örnek oluşturulmasını sağla
 
 
 Uygulamanın yaşam süresince bir nesnenin bir kez oluşturulmasını sağlar.
-DesingPatterns/src/Creational/SingeltonDesingPattern
+
 
 ### 2.2 FACTORY - FABRİKA
 
