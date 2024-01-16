@@ -25,6 +25,7 @@ Singleton deseni, programınızda yalnızca bir örnek oluşturulmasını sağla
 ![Singleton](https://github.com/aksoysoftware/DesingPatterns/assets/99371051/58ee1073-e8aa-4edf-bc4f-5998a8508088)
 
 Uygulamanın yaşam süresince bir nesnenin bir kez oluşturulmasını sağlar.
+DesingPatterns/src/Creational/SingeltonDesingPattern
 
 ### 2.2 FACTORY - FABRİKA
 
