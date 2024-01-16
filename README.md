@@ -22,7 +22,8 @@ Yazılım tasarım desenleri kullanmak, bir projenin karmaşıklığını yönet
 
 Singleton deseni, programınızda yalnızca bir örnek oluşturulmasını sağlar. Bu örnek, bir kaynağa tek bir noktadan erişim sağlar.
 
-DesingPatterns/src/Creational/SingeltonDesingPattern
+![image](https://github.com/aksoysoftware/DesingPatterns/assets/99371051/36f177e9-46f0-441e-be5f-683a2b179e16)
+
 
 Uygulamanın yaşam süresince bir nesnenin bir kez oluşturulmasını sağlar.
 DesingPatterns/src/Creational/SingeltonDesingPattern
