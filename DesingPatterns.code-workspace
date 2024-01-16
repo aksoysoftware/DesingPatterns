@@ -4,13 +4,13 @@
 			"path": "."
 		},
 		{
-			"path": "../OKRRecommender/DesingPatterns/DesingPatterns/src/Creational"
+			"path": "DesingPatterns/src/Creational"
 		},
 		{
-			"path": "../OKRRecommender/DesingPatterns/DesingPatterns/src/Structural"
+			"path": "..DesingPatterns/src/Structural"
 		},
 		{
-			"path": "../OKRRecommender/DesingPatterns/DesingPatterns/src/Behavioral"
+			"path": "..DesingPatterns/src/Behavioral"
 		}
 	],
 	"settings": {}
